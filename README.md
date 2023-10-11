@@ -27,7 +27,7 @@ Nota: Todo el código de aquí en adelante debe ir debidamente documentado.
 
 
 8. Diseñar una función que permita calcular una aproximación de la función exponencial alrededor de 0 para cualquier valor x (real), utilizando los primeros n términos de la serie de Maclaurin. Nota: use math para traer la función exponencial y mostrar la diferencia entre el valor real y la aproximación.
-e^x \approx exp(x,n) \approx \sum_{i=0}^{n}\frac{x^i}{i!}
+$$ e^x \approx exp(x,n) \approx \sum_{i=0}^{n}\frac{x^i}{i!} $$
 
 9. Diseñar una función que permita calcular una aproximación de la función seno alrededor de 0 para cualquier valor x (real), utilizando los primeros n términos de la serie de Maclaurin. Nota: use math para traer la función seno y mostrar la diferencia entre el valor real y la aproximación.
 
